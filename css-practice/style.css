@@ -1,0 +1,49 @@
+.centered {
+    text-align: center;
+}
+
+#red {
+    color: red;
+}
+
+#blue {
+    color: blue;
+}
+
+#green {
+    color: green;
+}
+
+.big {
+    font-size: x-large;
+}
+
+#tiny {
+    font-size: xx-small;
+}
+
+#font{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+#orange {
+    color: orange;
+}
+
+.styledFont{
+    font-size: larger;
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#styledImage {
+    border-width: 8px;
+    border-style: solid;
+    border-color: goldenrod;
+    width: 20%;
+    height: 20%;
+}
